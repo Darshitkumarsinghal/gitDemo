@@ -13,5 +13,6 @@ const forecast = (latitude, longitude, callback) => {
         }
     })
 }
+console.log("change")
 
 module.exports = forecast
